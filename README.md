@@ -1,4 +1,4 @@
-Resume-JD Matcher
+#Resume-JD Matcher
 Project Description
 
 In today's competitive job market, manually screening resumes against job descriptions is time-consuming and prone to human bias. The Resume-JD Matcher addresses this challenge by using deep learning to automatically assess how well a candidate's resume aligns with a given job description, enabling faster and more consistent shortlisting.
